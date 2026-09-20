@@ -6,6 +6,7 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 > We're not accepting any crypto or finance-related entries at the time.
 
 ## Open-source MCP Gateways
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — ships an MCP server exposing the local trace library.
 
 200 stars and 2 contributors or more.
 
